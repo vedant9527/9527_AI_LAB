@@ -1,3 +1,4 @@
+#vedant chawardol 9527 magic square method
 def print_board(board):
     for row in board:
         print(" | ".join(row))
